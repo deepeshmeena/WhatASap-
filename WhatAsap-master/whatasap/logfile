@@ -1,0 +1,8 @@
+2018-12-05 01:01:23.823 IST [15107] LOG:  listening on IPv4 address "127.0.0.1", port 5772
+2018-12-05 01:01:23.877 IST [15107] LOG:  listening on Unix socket "/home/anshua/postgresql/.s.PGSQL.5772"
+2018-12-05 01:01:24.012 IST [15110] LOG:  database system was interrupted; last known up at 2018-12-03 03:44:21 IST
+2018-12-05 01:01:24.192 IST [15110] LOG:  database system was not properly shut down; automatic recovery in progress
+2018-12-05 01:01:24.263 IST [15110] LOG:  redo starts at 0/1906F40
+2018-12-05 01:01:24.263 IST [15110] LOG:  invalid record length at 0/1907020: wanted 24, got 0
+2018-12-05 01:01:24.263 IST [15110] LOG:  redo done at 0/1906FE8
+2018-12-05 01:01:24.501 IST [15107] LOG:  database system is ready to accept connections
